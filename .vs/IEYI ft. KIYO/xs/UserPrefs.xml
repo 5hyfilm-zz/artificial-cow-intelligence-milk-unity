@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3DD30C7C-560C-563C-2819-65E48639DF7D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pause.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CircleMove.cs" Line="22" Column="35" />
+      <File FileName="Assets/Scripts/DestroyCircle.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="10" Column="6" />
+      <File FileName="Assets/Scripts/Textmove.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/TextSpawner.cs" Line="22" Column="39" />
+      <File FileName="Assets/Scripts/CircleSpawner.cs" Line="10" Column="29" />
+      <File FileName="Assets/Scripts/Pause.cs" Line="37" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
